@@ -5,7 +5,7 @@ This is a repository for datasets created in INST 314.
     Positive and negative aspects of modern human life.
     Leading factors of mental health issues for mothers, fathers, and children.
 
-    The Project 6 dataset reflects the answers of ten respondents about:
+The Project 6 dataset reflects the answers of ten respondents about:
       How much they agree or disagree with the following approaches to feminism:
         Difference-denying feminism
         Difference-removing feminism
